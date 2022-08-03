@@ -1,0 +1,6 @@
+{ 
+    "testFiles": "**/*.feature",
+    "defaultCommandTimeout": 10000,
+    "baseUrl":"http://automationpractice.com/index.php"
+    
+}
